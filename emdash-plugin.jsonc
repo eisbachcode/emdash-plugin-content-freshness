@@ -16,7 +16,7 @@
 	// break. The manifest has no advisory "tested up to" field to express
 	// caution without blocking, so the tested range belongs in the README.
 	"release": {
-		"requires": { "env:emdash": ">=0.39.0" }
+		"requires": { "env:emdash": ">=1.0.1" }
 	},
 	"description": "Audits your content: stale entries, weak or missing SEO descriptions, forgotten drafts, schedules that never fired and missing URL patterns.",
 	"keywords": ["content", "audit", "seo", "maintenance", "editorial"],
